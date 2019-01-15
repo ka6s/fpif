@@ -1,0 +1,17 @@
+mv ardif.bak fpif.bak
+mv ardif.bin fpif.bin
+mv ardif-cache.lib fpif-cache.lib
+mv ardif.cmp fpif.cmp
+mv ardif.csv fpif.csv
+mv ardif.dsn fpif.dsn
+mv ardif.kicad_pcb fpif.kicad_pcb
+mv ardif.kicad_pcb-bak fpif.kicad_pcb-bak
+mv ardif_mouser.xls fpif.kicad_mouser.xls
+mv ardif.net fpif.net
+mv ardif.pro fpif.pro
+mv ardif-rescue.lib fpif-rescue.lib
+mv ardif.rules fpif.rules
+mv ardif.sch fpif.sch
+mv ardif.ses fpif.ses
+mv ardif.xml fpif.xml
+

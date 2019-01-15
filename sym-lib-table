@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name fpif-rescue)(type Legacy)(uri ${KIPRJMOD}/fpif-rescue.lib)(options "")(descr ""))
+  (lib (name Transistor_Array)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Transistor_Array.lib)(options "")(descr ""))
+  (lib (name Analog)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Analog.lib)(options "")(descr ""))
+  (lib (name Device)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Device.lib)(options "")(descr ""))
+  (lib (name Relay_SolidState)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Relay_SolidState.lib)(options "")(descr ""))
+)
